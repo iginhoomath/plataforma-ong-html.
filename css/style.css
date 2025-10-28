@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  text-align: center
+  text-align: center; /* mantém o texto centralizado */
 }
 
 header {
@@ -10,7 +10,7 @@ header {
   color: white;
   padding: 1rem;
   text-align: center;
-  width: 100%;          
+  width: 100%;           /* faixa verde de ponta a ponta */
   box-sizing: border-box;
 }
 
