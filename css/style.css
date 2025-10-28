@@ -83,13 +83,6 @@ button:hover {
 .linha input {
   flex: 1;                 
 }
-.imagem-quem-somos {
-    width: 10%
-    max-width: 100px
-    height: auto
-    display: block
-    margin: 20px auto
-}
 @media (max-width: 600px) {
   .linha {
     flex-direction: column;
